@@ -1,0 +1,1 @@
+# KartYukleyici Windows Releases
